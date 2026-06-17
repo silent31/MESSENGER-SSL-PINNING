@@ -23,7 +23,7 @@
 
 ```text
 📦 Package      : com.facebook.orca
-🏷️ Version      : 555.0.0.56.66
+🏷️ Version      : 565.0.0.43.88
 🖥️ Architecture : ARM64-v8a
 ⚙️ Module       : libcoldstart.so
 🔐 Security     : SSL Pinning Layer
